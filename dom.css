@@ -1,11 +1,11 @@
 h1{
     text-align: center;
-    color: #FFF4E6;
+    color: rgb(80, 44, 0);
     border: 3px solid #2C1201;
     padding: 30px;
-    background-color: #924B21;
     max-width: 35%;
     margin:60px auto;
+    background-color: rgb(200,255,45);
 }
 /* body{
     background-color: #DBDBDB;
